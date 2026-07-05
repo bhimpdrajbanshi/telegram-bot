@@ -21,8 +21,8 @@ Before running the bot, ensure you have the following installed on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
-cd your-repo-name
+git https://github.com/bhimpdrajbanshi/telegram-bot.git
+cd telegram-bot
 ```
 
 ### 2. Create a Virtual Environment
